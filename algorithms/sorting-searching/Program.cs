@@ -11,7 +11,10 @@ namespace sorting_searching
             RunAlgorithms();
         }
 
-
+        // TODO:
+        // Create a way for user to decide which algorithm they want to use
+        // Allow user to input their own numbers
+        // For searching algoritm, let user choose which number they want to find
 
         public static void RunAlgorithms()
         {

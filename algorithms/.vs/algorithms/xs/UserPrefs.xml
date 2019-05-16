@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{372B027C-1AA6-4ED5-AAD6-BC8DDF62F518}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sorting-searching/Searches/BinarySearch.cs">
+    <Files>
+      <File FileName="sorting-searching/Program.cs" Line="17" Column="10" />
+      <File FileName="sorting-searching/Sorts/BubbleSort.cs" Line="21" Column="1" />
+      <File FileName="sorting-searching/Sorts/QuickSort.cs" Line="8" Column="1" />
+      <File FileName="sorting-searching/Searches/BinarySearch.cs" Line="6" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="algorithms" expanded="True">
+            <Node name="sorting-searching" expanded="True">
+              <Node name="Searches" expanded="True">
+                <Node name="BinarySearch.cs" selected="True" />
+              </Node>
+              <Node name="Sorts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sorting-searching PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
